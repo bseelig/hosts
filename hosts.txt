@@ -1,1 +1,2 @@
 72.21.81.237 ads-e-darwin.hulustream.com
+84.200.70.40 cs428.wpc.edgecastcdn.net
