@@ -1,3 +1,8 @@
 72.21.81.237 ads-e-darwin.Hulustream.com
 84.200.70.40 cs428.wpc.edgecastcdn.net
 93.184.221.223 cs428.wpc.edgecastcdn.net
+140.222.225.63 0.ae9.gw13.iad8.alter.net 
+152.179.50.166 telekom-gw.customer.alter.net 
+217.239.51.161 pd9ef33a1.dip0.t-ipconnect.de 
+80.150.170.182 80.150.170.182 
+152.195.108.129 ae-65.core1.paa.edgecastcdn.net
